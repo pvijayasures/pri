@@ -1,95 +1,42 @@
 {
-  "businessObjects": [],
-  "hasPrompts": false,
-  "links": [],
-  "prompts": [],
-  "searchResultsFields": [],
-  "simpleResults": {
-    "groups": [
-      {
-        "isBusObTarget": true,
-        "simpleResultsListItems": [
-          {
-            "busObId": null,
-            "busObRecId": "9438c3bc7b76cd80c7f8a44e37b95406ef8d942f21",
-            "docRepositoryItemId": null,
-            "galleryImage": "",
-            "links": [],
-            "publicId": "283259",
-            "scope": null,
-            "scopeOwner": null,
-            "subTitle": "",
-            "text": "Low\r\nWorkplace Application Platform Service\r\nRequest Hardware order",
-            "title": "283259, In Progress"
-          },
-          {
-            "busObId": null,
-            "busObRecId": "943a42854db5bd65cf5f9c4c1f8f9e8fd696715c46",
-            "docRepositoryItemId": null,
-            "galleryImage": "",
-            "links": [],
-            "publicId": "290079",
-            "scope": null,
-            "scopeOwner": null,
-            "subTitle": "",
-            "text": "Low\r\nWorkplace Application Platform Service\r\nRequest Hardware order",
-            "title": "290079, In Progress"
-          },
-          {
-            "busObId": null,
-            "busObRecId": "943a42a12ae98256988968486cb018cc622af74fda",
-            "docRepositoryItemId": null,
-            "galleryImage": "",
-            "links": [],
-            "publicId": "290087",
-            "scope": null,
-            "scopeOwner": null,
-            "subTitle": "",
-            "text": "Low\r\nWorkplace Application Platform Service\r\nRequest Hardware order",
-            "title": "290087, In Progress"
-          },
-          {
-            "busObId": null,
-            "busObRecId": "943a4347fdb7dfad48aa3c4cdaae754a75392d3299",
-            "docRepositoryItemId": null,
-            "galleryImage": "",
-            "links": [],
-            "publicId": "290119",
-            "scope": null,
-            "scopeOwner": null,
-            "subTitle": "",
-            "text": "Low\r\nWorkplace Application Platform Service\r\nRequest Hardware order",
-            "title": "290119, In Progress"
-          },
-          {
-            "busObId": null,
-            "busObRecId": "943a43d71dc51165d6d643435a9b0845851aa83d4b",
-            "docRepositoryItemId": null,
-            "galleryImage": "",
-            "links": [],
-            "publicId": "290148",
-            "scope": null,
-            "scopeOwner": null,
-            "subTitle": "",
-            "text": "Low\r\nWorkplace Application Platform Service\r\nRequest Hardware order",
-            "title": "290148, In Progress"
-          }
-        ],
-        "subTitle": null,
-        "targetId": null,
-        "title": null,
-        "errorCode": null,
-        "errorMessage": null,
-        "hasError": false
-      }
-    ],
-    "title": null,
-    "errorCode": null,
-    "errorMessage": null,
-    "hasError": false
-  },
-  "totalRows": 0,
-  "errorCode": null,
-  "errorMessage": null,
-  "hasError": false
+    "simpleResults": {
+        "groups": [
+            {
+                "simpleResultsListItems": [
+                    {  
+                        "busObRecId": "9438c3bc7b76cd80c7f8a44e37b95406ef8d942f21",                       
+                        "publicId": "283259",
+                        "text": "Low\r\nWorkplace Application Platform Service\r\nRequest Hardware order",
+                        "title": "283259, In Progress"
+                    },
+                    {
+                        "busObRecId": "943a42854db5bd65cf5f9c4c1f8f9e8fd696715c46",
+                        "publicId": "290079",
+                        "text": "Low\r\nWorkplace Application Platform Service\r\nRequest Hardware order",
+                        "title": "290079, In Progress"
+                    },
+                    {
+                        "busObRecId": "943a42a12ae98256988968486cb018cc622af74fda",
+                        "publicId": "290087",
+                        "text": "Low\r\nWorkplace Application Platform Service\r\nRequest Hardware order",
+                        "title": "290087, In Progress"
+                    },
+                    {
+                         
+                        "busObRecId": "943a4347fdb7dfad48aa3c4cdaae754a75392d3299",
+                        "publicId": "290119",
+                        "text": "Low\r\nWorkplace Application Platform Service\r\nRequest Hardware order",
+                        "title": "290119, In Progress"
+                    },
+                    {
+                         
+                        "busObRecId": "943a43d71dc51165d6d643435a9b0845851aa83d4b",
+                        "publicId": "290148",
+                        "text": "Low\r\nWorkplace Application Platform Service\r\nRequest Hardware order",
+                        "title": "290148, In Progress"
+                    }
+                ]
+            }
+        ]
+    }
 }
